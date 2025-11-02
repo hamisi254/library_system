@@ -1,10 +1,11 @@
-# 📚 Smart Library Management System (MOB)
+ 📚 Smart Library Management System (MOB)
 
 A terminal-based **Smart Library Management System** built with **Python Object-Oriented Programming (OOP)**. Designed to manage books, members, and borrowing/returning transactions efficiently with persistent data storage.
 
 **MOB** — *Modern, Organized, and Book-focused Library System*
 
 ---
+<img width="1170" height="759" alt="Image" src="https://github.com/user-attachments/assets/baa7018c-668c-4313-a3fa-166a5ba80279" />
 
 ## ✅ Features
 
@@ -63,6 +64,7 @@ Step 4: Run the Program
 On Windows:
 Open Command Prompt or PowerShell
 Use cd to go to your project folder
+<img width="1104" height="168" alt="Image" src="https://github.com/user-attachments/assets/544fc9db-be2b-4998-84e9-4d00d0d44bb8" />
 
 python library_system.py
 On macOS or Linux:
@@ -72,3 +74,5 @@ Example: cd ~/Downloads/smart-library-system
 
 python3 library_system.py
 
+<img width="1887" height="1005" alt="Image" src="https://github.com/user-attachments/assets/d971d274-f1fb-4f74-9680-3e2a30d141a1" />
+<img width="1379" height="358" alt="Image" src="https://github.com/user-attachments/assets/c4051eb5-51e8-4476-a92f-72ae22a93d9b" />
