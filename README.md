@@ -35,8 +35,40 @@ A terminal-based **Smart Library Management System** built with **Python Object-
 
 ## 🛠️ How to Run
 
-1. **Prerequisites**  
-   - Python 3.6 or higher installed
+**Step 1: Install Python (if not already installed)**
+Go to https://www.python.org/downloads/
+Download Python 3.7 or newer for your operating system (Windows, macOS, or Linux)
+Run the installer and check "Add Python to PATH" during installation (important on Windows!)
 
-2. **Clone or Download**  
-   Place all files in one folder:
+**Step 2: Get the Project Files**
+You can either:
+
+**Option A: Download as ZIP**
+On GitHub, click the green "Code" button
+Click "Download ZIP"
+Extract the ZIP file to a folder (e.g., smart-library-system)
+Option B: Clone with Git (if you have Git installed)
+bash
+
+git clone https://github.com/hamisi254/smart-library-system.git
+cd smart-library-system
+
+**Step 3: Open the Project Folder**
+Navigate to the folder containing these files:
+library_system.py
+models.py
+(The .txt files will be created automatically on first run)
+Step 4: Run the Program
+
+On Windows:
+Open Command Prompt or PowerShell
+Use cd to go to your project folder
+
+python library_system.py
+On macOS or Linux:
+Open Terminal
+Navigate to the project folder
+Example: cd ~/Downloads/smart-library-system
+
+python3 library_system.py
+
