@@ -1,0 +1,32 @@
+[
+  {
+    "member_id": "2481",
+    "name": "Hamisi Chrispus",
+    "borrowed_books": []
+  },
+  {
+    "member_id": "1658",
+    "name": "Lindsey mutai",
+    "borrowed_books": []
+  },
+  {
+    "member_id": "5412",
+    "name": "Vincent mutuma",
+    "borrowed_books": []
+  },
+  {
+    "member_id": "5670",
+    "name": "Mike murage",
+    "borrowed_books": []
+  },
+  {
+    "member_id": "3170",
+    "name": "Friday tunje",
+    "borrowed_books": []
+  },
+  {
+    "member_id": "8015",
+    "name": "Reuben Ngutai",
+    "borrowed_books": []
+  }
+]

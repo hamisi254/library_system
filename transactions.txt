@@ -1,0 +1,5 @@
+2025-11-02 15:03:00.255122 | BORROW | Member: 2481 | Book: Ares counter
+2025-11-02 15:11:00.343106 | RETURN | Member: 2481 | Book: Ares Counter
+2025-11-02 15:22:07.818985 | RETURN | Member: 2481 | Book: Ares Counter
+2025-11-02 20:59:02.422890 | BORROW | Member: 1658 | Book: clinical and therapeutic pharmacology
+2025-11-02 21:00:07.111450 | RETURN | Member: 1658 | Book: Clinical and therapeutic pharmacology

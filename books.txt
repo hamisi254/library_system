@@ -1,0 +1,16 @@
+[
+  {
+    "book_id": "2311",
+    "title": "Ares Counter",
+    "author": "John Doe",
+    "available_copies": 5,
+    "borrow_count": 1
+  },
+  {
+    "book_id": "4872",
+    "title": "Clinical and therapeutic pharmacology",
+    "author": "Mathew hunderson",
+    "available_copies": 20,
+    "borrow_count": 1
+  }
+]
